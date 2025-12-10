@@ -1,0 +1,22 @@
+# AgroMind 🌾🤖
+**AI-Powered Smart Farming Companion for Sri Lanka**
+
+AgroMind is a full-stack web application designed to help farmers optimize yields and diagnose crop diseases using Artificial Intelligence.
+
+## 🚀 Features
+*   **AI Agronomist:** Chatbot for real-time pest & disease advice.
+*   **Dashboard:** Visual analytics for harvest yields (Yala/Maha seasons).
+*   **Learning Hub:** Interactive modules on plant nutrition.
+*   **Secure Login:** Role-based authentication.
+
+## 🛠️ Tech Stack
+*   **Frontend:** React.js, Tailwind CSS, Material UI
+*   **Backend:** Python FastAPI
+*   **AI:** Natural Language Processing (NLP) Logic
+*   **Charts:** Recharts
+
+## 📸 Screenshots
+*(You can upload your screenshots here later)*
+
+## 🇱🇰 Context
+Built to solve real-world agricultural challenges in Sri Lanka.
