@@ -16,7 +16,7 @@ AgroMind is a full-stack web application designed to help farmers optimize yield
 *   **Charts:** Recharts
 
 ## 📸 Screenshots
-*(You can upload your screenshots here later)*<img width="1080" height="1350" alt="AGROMIND (1)" src="https://github.com/user-attachments/assets/888f85a2-e6ff-4a73-9d5b-c5cae071e0bd" />
+<img width="1080" height="1350" alt="AGROMIND (1)" src="https://github.com/user-attachments/assets/888f85a2-e6ff-4a73-9d5b-c5cae071e0bd" />
 
 
 ## 🇱🇰 Context
